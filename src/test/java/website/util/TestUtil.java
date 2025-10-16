@@ -1,4 +1,4 @@
-package test.website.util;
+package website.util;
 
 public class TestUtil {
 
